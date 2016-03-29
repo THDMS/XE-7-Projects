@@ -1,0 +1,4 @@
+7.  smarter- don't skip line for address 2 if address 2 is empty
+status: measured, lost, sold, reschedule call in, reschedule at door
+Add button on job detail to print job, hide scheduled dates, show current appointment date and time, record printing in note
+Add menu option print jobs, get date, show all details, don't show cancelled jobs. Record printing in note
